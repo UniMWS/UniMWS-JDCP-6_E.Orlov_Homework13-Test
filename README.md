@@ -1,4 +1,4 @@
-# UniMWS-JDCP-6_E.Orlov_Homework13-Test
+# JDCP-6_E.Orlov_Homework13-Test
 Домашнее задание по теме «Внедрение системы контроля версий»
 ## Демонстрация работы SalesManager
 ### Краткое описание:
